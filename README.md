@@ -97,10 +97,10 @@ All models were trained on the same data and evaluated on the test set. *Logisti
 
 | Model | Weighted F1-Score |
 | :--- | :--- |
-| Naive Bayes | [Your F1 Score] |
+| Naive Bayes | *0.87* |
 | *Logistic Regression* | *0.90* |
-| Linear SVM (SVC) | [Your F1 Score] |
-| Random Forest | [Your F1 Score] |
+| Linear SVM (SVC) | *0.90* |
+| Random Forest | *0.90* |
 
 ### In-Depth Evaluation (Logistic Regression)
 
