@@ -108,18 +108,10 @@ The chosen model (LogisticRegression) was evaluated, achieving a *0.90 weighted 
 
 *Classification Report:*
 
+<img width="819" height="299" alt="image" src="https://github.com/user-attachments/assets/314c93b4-b4c5-4886-88b9-ff1420694c23" />
 
---- Classification Report (Logistic Regression) ---
-                                  precision    recall  f1-score   support
-
-Credit reporting, repair, or other       0.88      0.83      0.86      6376
-                   Debt collection       0.89      0.93      0.91     17342
-                     Consumer Loan       0.88      0.85      0.87      7755
-                          Mortgage       0.95      0.95      0.95     10598
-
-                          accuracy                           0.90     42071
-                         macro avg       0.90      0.89      0.90     42071
-                      weighted avg       0.90      0.90      0.90     42071
+*Confusion Matrix:*
+<img width="1013" height="835" alt="image" src="https://github.com/user-attachments/assets/9ad6bdea-9127-4adf-bfaa-f2fbecaf4b1a" />
 
 
 *Key Takeaways:*
